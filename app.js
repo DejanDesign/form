@@ -3,6 +3,9 @@ const password = document.getElementById("password");
 const form = document.getElementById("form");
 const errorDiv = document.getElementById("error");
 
+
+alert('correct user: new_user &  pass: 123456789');
+
 /*form.addEventListener("submit", (e) => {
   let messages = [];
   if (
